@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 from spotipy.oauth2 import SpotifyOAuth
 
 billboard_url = "https://www.billboard.com/charts/hot-100/"
-Client_ID = "ae0a19a6117346e8b3b0e807aaefc562"
-Client_Secret = "2005befa7fe4482b92b9ed5d1002b62a"
+Client_ID = YOUR_CLIENR_ID
+Client_Secret = YOUR_CLIENR_SECRET
 redirect_URI = "http://example.com"
 
 user_date = input("What year would you like to visit? Type the date in this format YYYY-MM-DD: ")
