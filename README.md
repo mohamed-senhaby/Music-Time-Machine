@@ -1,4 +1,4 @@
-# Spotify Billboard Hot 100 Playlist Generator
+# Spotify Playlist Generator
 
 This script allows you to generate a Spotify playlist containing songs from the Billboard Hot 100 chart of a specific year. It scrapes the Billboard Hot 100 chart page for the provided date to extract song titles, searches for these songs on Spotify using the Spotipy library, and adds them to a newly created playlist.
 
